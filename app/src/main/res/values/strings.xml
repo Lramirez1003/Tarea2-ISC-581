@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mi app permisos</string>
+    <string name="elija_que_permisos_quiere_otorgar_a_la_app">Elija que permisos quiere otorgar a la APP</string>
+</resources>
